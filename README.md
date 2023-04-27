@@ -17,3 +17,12 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="50" height="50"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="50" height="50"/>&nbsp;
 </div>
+
+---
+
+<div align="center">
+  <p>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=stopcallingmyname&show_icons=true&locale=en&layout=compact"                        alt="stopcallingmyname" />
+  </p>  
+</div>
+
