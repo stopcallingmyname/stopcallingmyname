@@ -10,8 +10,7 @@
 
 <div align="center">
    <a href="https://nikita-khaletsky.netlify.app/">
-    <img src="![image](https://github.com/stopcallingmyname/stopcallingmyname/assets/56963796/a7ea902e-e58d-4099-b3a4-922782d30da7)
-" alt="Landing Page"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/11471/11471283.png" alt="Promo" max-width="30%"/>
   </a>
 </div>
 
