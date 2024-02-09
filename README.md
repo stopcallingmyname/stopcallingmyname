@@ -10,7 +10,7 @@
 
 <div align="center">
    <a href="https://nikita-khaletsky.netlify.app/">
-    <img src="https://cdn-icons-png.flaticon.com/512/11471/11471283.png" alt="Promo" max-width="30%"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/11471/11471283.png" alt="Promo" width="30%"/>
   </a>
 </div>
 
