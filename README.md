@@ -8,6 +8,13 @@
   </a>
 </div>
 
+<div align="center">
+   <a href="https://nikita-khaletsky.netlify.app/">
+    <img src="![image](https://github.com/stopcallingmyname/stopcallingmyname/assets/56963796/a7ea902e-e58d-4099-b3a4-922782d30da7)
+" alt="Landing Page"/>
+  </a>
+</div>
+
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
